@@ -1,4 +1,4 @@
-# AndroidFourceUpdate
+# AndroidForceUpdate
 
 > EXAMPLE
 
@@ -237,4 +237,26 @@ public class SplashActivity extends AppCompatActivity implements WSCallerVersion
                 .show();
     }
 }
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
